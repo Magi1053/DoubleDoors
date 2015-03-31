@@ -1,0 +1,5 @@
+name: ${project.name}
+version: ${project.internalVersion}
+description: ${project.description}
+author: ${project.author}
+main: ${project.classPath.main}

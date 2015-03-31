@@ -1,0 +1,6 @@
+language: java
+install: mvn install
+notifications:
+  irc:
+    channels:
+      - "irc.esper.net#Magi1053"
